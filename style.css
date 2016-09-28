@@ -1,3 +1,32 @@
 body {
-  background: yellow;
+  margin: 0;
+  color: white;
+}
+.navbar {
+  display: block;
+  background: #2e5af6 ;
+  overflow:auto;
+  color: white;
+
+}
+
+.navbar_title {
+  float: left;
+  padding: 1rem;
+
+}
+.navbar_portfolio {
+  float: right;
+  padding: 1rem;
+
+}
+
+.navbar_blog {
+  float: right;
+  padding: 1rem;
+}
+
+.navbar_contact {
+  float: right;
+  padding: 1rem;
 }
